@@ -1,0 +1,17 @@
+.notfound-container {
+  background-color: black;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+.notfound-container h1 {
+  color: #ffffff;
+  margin: 20px 0 20px 0;
+}
+.notfound-container p{
+    font-weight: 200;
+}
